@@ -1,3 +1,8 @@
+// learn how to display your input as a list - the money that people spend  
+// get the input of daily expenses and list them below
+// do calculation with those expenses and categorize them 
+
+
 import React, { Component } from 'react';
 import {useState} from 'react';
 import { View,StyleSheet,Text,Image,TextInput,FlatList} from 'react-native';

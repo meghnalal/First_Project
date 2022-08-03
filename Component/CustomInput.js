@@ -1,3 +1,6 @@
+// used this custom input for my signin page 
+// used it for the controller 
+
 import React from "react";
 import { View, Text, StyleSheet,TextInput } from "react-native";
 import {Controller} from 'react-hook-form';

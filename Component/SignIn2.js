@@ -1,3 +1,5 @@
+// ignore this
+
 import React, {useState} from 'react';
 import { StyleSheet, Text, View, Button,TextInput } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';

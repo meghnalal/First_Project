@@ -1,3 +1,8 @@
+// sign in page 
+// input gets registered and validated
+// for the email i used regex 
+//for the password i used same regex rule way 
+//i used the custom input to shorten the code a bit 
 import React, {useState} from 'react';
 import { StyleSheet, Text, View, Button,TextInput } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';

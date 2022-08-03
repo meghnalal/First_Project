@@ -1,3 +1,7 @@
+//just used this to learn how to place images on my screen 
+// its very cute 
+
+
 import React, { Component } from 'react';
 import { View,StyleSheet,Text,Image} from 'react-native';
 import style from 'react-native-datepicker/style';
